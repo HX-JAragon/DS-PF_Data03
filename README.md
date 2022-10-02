@@ -9,27 +9,22 @@
 
 Hemos llegado al último gran desafío de esta aventura.
 
-⚠️ **Advertencia**: ¡abrochar cinturones!
+⚠️ **Advertencia**: ¡abrochar cinturones! 
+
+</br>
 
 ## **¿Qué es el Proyecto Final?**
+
 Consiste en el desarrollo de un proyecto de mayor envergadura, simulando una primera experiencia laboral dentro de un laboratorio educativo. El objetivo es integrar los conocimientos adquiridos en el bootcamp, enfrentarse al desafío de aprender nuevas habilidades técnicas y desarrollar soft skills que potencien el crecimiento del alumno.
 
 Tendrán la libertad de elegir uno de los tres proyectos que aquí les presentamos:
 
-+ **Proyecto 1**
+🚀 **Proyecto 1:** [Vuelos Comerciales]("https://github.com/JulianaAragon/DS-PF_Data03/Proyectos/Vuelos\Comerciales.md")
 
-[VuelosComerciales](DS-PF_Data03/Vuelos Comerciales.md)
+🚀 **Proyecto 2:** [Amazon Reviews]("https://github.com/JulianaAragon/DS-PF_Data03/Proyectos/Amazon\Reviews.md")
 
-+ **Proyecto 2**
-
-[AmazonReviews](DS-PF_Data03/Amazon Reviews.md)
-
-+ **Proyecto 3**
-
-[EsperanzaVida](DS-PF_Data03/Esperanza de Vida.md)
+🚀 **Proyecto 3:** [Esperanza de Vida]("https://github.com/JulianaAragon/DS-PF_Data03/Proyectos/Esperanza\de\Vida.md")
 
 
-
-
-<img src= "https://media.tenor.com/nTa69vUhjGgAAAAd/spongebob-good.gif" height="200">
+</br>  <img src= "https://media.tenor.com/nTa69vUhjGgAAAAd/spongebob-good.gif" height="200">
 
