@@ -19,11 +19,11 @@ Consiste en el desarrollo de un proyecto de mayor envergadura, simulando una pri
 
 Tendrán la libertad de elegir uno de los tres proyectos que aquí les presentamos:
 
-🚀 **Proyecto 1:** [Vuelos Comerciales](https://github.com/JulianaAragon/DS-PF_Data03/Proyectos/Vuelos%20Comerciales.md")
+🚀 **Proyecto 1:** [Vuelos Comerciales](https://github.com/JulianaAragon/DS-PF_Data03/Proyectos/Vuelos%20Comerciales.md)
 
-🚀 **Proyecto 2:** [Amazon Reviews]("https://github.com/JulianaAragon/DS-PF_Data03/Proyectos/Amazon%20Reviews.md")
+🚀 **Proyecto 2:** [Amazon Reviews](https://github.com/JulianaAragon/DS-PF_Data03/blob/main/Proyectos/Amazon%20Reviews.md)
 
-🚀 **Proyecto 3:** [Esperanza de Vida]("https://github.com/JulianaAragon/DS-PF_Data03/Proyectos/Esperanza%20de%20Vida.md")
+🚀 **Proyecto 3:** [Esperanza de Vida](https://github.com/JulianaAragon/DS-PF_Data03/Proyectos/Esperanza%20de%20Vida.md)
 
 
 </br>  <img src= "https://media.tenor.com/nTa69vUhjGgAAAAd/spongebob-good.gif" height="200">
