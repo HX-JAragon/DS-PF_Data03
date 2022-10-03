@@ -155,8 +155,23 @@ brand - Nombre de la marca del producto.
 
 categories - Lista de la categoría a la que pertenece el producto.
 
-
 - - -
+## **Repos útiles**
+
+### **Sistemas de recomendación**
+https://github.com/jdeiloff/awesome-RecSys
+
+
+### **Natural Language Processing**
+https://github.com/jdeiloff/NLP-with-Python
+
+### **Docker con Spark**
+https://github.com/Marcel-Jan/docker-hadoop-spark
+
+### **Herramientas para proyectos de Big Data**
+https://github.com/soyHenry/DS-M4-Herramientas_Big_Data
+- - -
+
 
 ¡¡¡Éxitos!!!
 
