@@ -63,7 +63,7 @@ https://databank.worldbank.org/databases
 
 (En la sección `World Development Indicators` podrán encontrar el indicador de esperanza de vida al nacer).
 
-+ Ejemplo de fuente datos externa, de la OMS, para complementar el análisis:.
++ Ejemplo de fuente datos externa, de la OMS, para complementar el análisis:
 
 https://apps.who.int/gho/data/node.resources
 
